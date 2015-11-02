@@ -1,0 +1,29 @@
+{
+  "name": "bookshelf-vagrant",
+  "version": "0.0.1",
+  "description": "Shared vagrant configuration for the knex and bookshelf projects",
+  "homepage": "http://bookshelfjs.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cspotcode/bookshelf-vagrant.git"
+  },
+  "keywords": [
+    "bookshelf",
+    "knex",
+    "vagrant",
+    "orm",
+    "mysql",
+    "postgresql",
+    "sqlite",
+    "datamapper",
+    "active record"
+  ],
+  "author": {
+    "name": "Andrew Bradley",
+    "web": "https://github.com/cspotcode"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": {}
+}
